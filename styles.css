@@ -1,0 +1,44 @@
+body {
+    margin: 0 auto;
+    width: 1250px;
+
+}
+
+.lmstext1 {
+    margin-top: 180px;
+    width: 600px;
+    height: 40px;
+    text-align: center;
+}
+
+img {
+    margin-top: 30px;
+    margin-left: 170px;
+}
+
+.lmstext2 {
+    margin-top: 40px;
+}
+
+.login1 {
+    font-size: 20px;
+}
+
+.all {
+    margin-left: 80px;
+}
+
+.parol {
+    margin-top: 40px;
+}
+
+.asus {
+    margin-top: 25px;
+}
+
+.input1 {
+    border-radius: 1px;
+    width: 400px;
+    height: 30px;
+    margin-top: 14px;
+}
