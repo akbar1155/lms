@@ -28,8 +28,23 @@ img {
     margin-left: 80px;
 }
 
+.kirish {
+    background-color: #18254A;
+    width: 410px;
+    height: 50px;
+    border-radius: 5px;
+}
+
 .parol {
     margin-top: 40px;
+}
+
+.kirish2 {
+    font-size: 20px;
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+    padding-top: 12px;
 }
 
 .asus {
