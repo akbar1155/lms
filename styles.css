@@ -28,6 +28,10 @@ img {
     margin-left: 80px;
 }
 
+a {
+    text-decoration: none;
+}
+
 .kirish {
     background-color: #18254A;
     width: 410px;
